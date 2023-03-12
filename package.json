@@ -1,6 +1,6 @@
 {
   "name": "eriknewlandnpmtest123",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "testing a typescript npm template",
   "main": "./lib/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryansonshine/typescript-npm-package-template.git"
+    "url": "git+https://github.com/eriknewland/super-duper-potato/"
   },
   "license": "MIT",
   "author": {
