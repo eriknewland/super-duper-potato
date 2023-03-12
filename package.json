@@ -1,7 +1,7 @@
 {
-  "name": "typescript-npm-package-template",
+  "name": "eriknewlandnpmtest123",
   "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript and VSCode",
+  "description": "testing a typescript npm template",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ryan Sonshine",
-    "email": "ryansonshine@users.noreply.github.com",
-    "url": "https://github.com/ryansonshine"
+    "name": "Erik Newland",
+    "email": "eriknewland93@gmail.com",
+    "url": "https://github.com/eriknewland"
   },
   "engines": {
     "node": ">=12.0"
@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/ryansonshine/typescript-npm-package-template/issues"
   },
-  "homepage": "https://github.com/ryansonshine/typescript-npm-package-template#readme",
+  "homepage": "https://github.com/eriknewland/super-duper-potato/#readme",
   "devDependencies": {
     "@ryansonshine/commitizen": "^4.2.8",
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
