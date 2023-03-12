@@ -118,5 +118,8 @@
       "@semantic-release/npm",
       "@semantic-release/github"
     ]
+  },
+  "dependencies": {
+    "python-shell": "^5.0.0"
   }
 }
